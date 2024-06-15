@@ -5,9 +5,6 @@
 
 <h1>Le 30 juin, votez Joëlle RICHOL pour le Nouveau Front Populaire !</h1>
 
-  <a href="https://www.nouveaufrontpopulaire.fr/">Notre programme : 100 jours pour…</a>
-
-  Vous pouvez aussi la soutenir et retrouver son actualité sur <a href="https://www.facebook.com/profile.php?id=61561310660096">sa page Facebook</a>.
 </section>
 
 <section class="programme">
@@ -37,6 +34,12 @@
 </ul>
 
   <a href="https://www.nouveaufrontpopulaire.fr/">Voir le programme en détail</a>
+
+</section>
+
+<section class="contact">
+  
+Vous pouvez aussi soutenir Joëlle Richol et retrouver sob actualité sur <a href="https://www.facebook.com/profile.php?id=61561310660096">sa page Facebook</a>.
 
 </section>
 
