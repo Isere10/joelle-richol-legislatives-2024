@@ -41,15 +41,15 @@
 
 <section class="contact">
   
-Vous pouvez aussi soutenir Joëlle Richol et retrouver sob actualité sur <a href="https://www.facebook.com/profile.php?id=61561310660096">sa page Facebook</a>.
+Vous pouvez aussi soutenir Joëlle Richol et retrouver son actualité sur <a href="https://www.facebook.com/profile.php?id=61561310660096">sa page Facebook</a>.
 
 </section>
 
 <section class="procuration">
 
-Vous ne pouvez pas vous déplacer le 30 juin ou le 7 juillet prochain ?
-
 <h2>Votez par procuration</h2>
+
+Vous ne pouvez pas vous déplacer le 30 juin ou le 7 juillet prochain ?
 
 Prenez contact rapidement avec des personnes volontaires sur <a href="https://actionpopulaire.fr/procuration">Action Populaire</a>
 
