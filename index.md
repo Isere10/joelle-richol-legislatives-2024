@@ -1,11 +1,7 @@
----
-title: Accueil
-order: 0
----
 
 <section class="entete">
   <!-- Ci-dessous la photo de votre candidat·e -->
-  <img alt="Joëlle Richol candidate pour le Front Populaire le 30 juin" src="./images/Joelle_Richol.jpg">
+  <img alt="Joëlle Richol candidate pour le Front Populaire le 30 juin" src="./images/Joelle_Richol.png">
 
 <h1>Le 30 juin, votez Joëlle RICHOL pour le Nouveau Front Populaire !</h1>
 
