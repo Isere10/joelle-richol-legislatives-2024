@@ -5,8 +5,9 @@
 
 <h1>Le 30 juin, votez Joëlle RICHOL pour le Nouveau Front Populaire !</h1>
 
-  <a href="">Notre programme : 100 jours pour…</a>
+  <a href="https://www.nouveaufrontpopulaire.fr/">Notre programme : 100 jours pour…</a>
 
+  Vous pouvez aussi la soutenir et retrouver son actualité sur <a href="https://www.facebook.com/profile.php?id=61561310660096">sa page Facebook</a>.
 </section>
 
 <section class="programme">
@@ -36,27 +37,6 @@
 </ul>
 
   <a href="https://www.nouveaufrontpopulaire.fr/">Voir le programme en détail</a>
-
-</section>
-
-<section class="logos_partis">
-
-  <h2>L'union de la gauche, c'est le Nouveau Front Populaire !</h2>
-
-<ul>
-  <li>
-      <img alt="logo des écologistes" src="./images/les-ecologistes.png">
-  </li>
-  <li>
-    <img alt="logo de LFI" src="./images/lfi.png">
-  </li>
-  <li>
-    <img alt="logo du PCF" src="./images/pcf.png">
-  </li>
-  <li>
-    <img alt="logo du PS" src="./images/ps.png">
-  </li>
-</ul>
 
 </section>
 
