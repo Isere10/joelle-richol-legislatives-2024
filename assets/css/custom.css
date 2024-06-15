@@ -2,6 +2,10 @@
     --couleur-primaire : #e4302f;
 }
 
-.titre {
-    {color: #EF1926}
+h1 {
+    color: #EF1926;
+}
+
+a {
+    color: #EF1926;
 }
