@@ -51,7 +51,7 @@ Vous pouvez aussi soutenir Joëlle Richol et retrouver son actualité sur <a hre
 
 Vous ne pouvez pas vous déplacer le 30 juin ou le 7 juillet prochain ?
 
-Prenez contact rapidement avec des personnes volontaires sur <a href="https://actionpopulaire.fr/procuration">Action Populaire</a>
+Prenez contact rapidement avec des personnes volontaires sur <a href="https://actionpopulaire.fr/procuration">Action Populaire</a>.
 
 </section>
 
