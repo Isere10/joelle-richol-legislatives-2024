@@ -8,6 +8,16 @@ h1 {
     text-align: center;
 }
 
+h2 {
+    text-align: center;
+}
+
+p {
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+
 a {
     color: #EF1926;
 }
@@ -16,5 +26,5 @@ img {
     max-width: 100%;
     display: block;
     margin-left: auto;
-    margin-right: auto
+    margin-right: auto;
 }
