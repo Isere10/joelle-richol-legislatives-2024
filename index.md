@@ -11,7 +11,7 @@
 
 <section class="programme">
 
-  <h2>Le programme du Front Populaire : 100 jours pour tout changer</h2>
+  <h2>Notre programme : 100 jours pour tout changer</h2>
 
 <ul>
   <li>
@@ -40,7 +40,7 @@
 
 <section class="contact">
   
-Vous pouvez aussi soutenir Joëlle Richol et retrouver son actualité sur <a href="https://www.facebook.com/profile.php?id=61561310660096">sa page Facebook</a>.
+<p>Vous pouvez aussi soutenir Joëlle Richol et retrouver son actualité sur <a href="https://www.facebook.com/profile.php?id=61561310660096">sa page Facebook</a>.</p>
 
 </section>
 
@@ -48,9 +48,9 @@ Vous pouvez aussi soutenir Joëlle Richol et retrouver son actualité sur <a hre
 
 <h2>Votez par procuration</h2>
 
-Vous ne pouvez pas vous déplacer le 30 juin ou le 7 juillet prochain ?
+<p>Vous ne pouvez pas vous déplacer le 30 juin ou le 7 juillet prochain ?</p>
 
-Prenez contact rapidement avec des personnes volontaires sur <a href="https://actionpopulaire.fr/procuration">Action Populaire</a>.
+<p>Prenez contact rapidement avec des personnes volontaires sur <a href="https://actionpopulaire.fr/procuration">Action Populaire</a>.</p>
 
 </section>
 
@@ -63,18 +63,15 @@ Prenez contact rapidement avec des personnes volontaires sur <a href="https://ac
 <li>Vous n'êtes pas sûr·es d'être inscrit·e ?</li>
 </ul>
 
-Retrouvez vos informations pour <strong>voter les 30 juin et 7 juillet</strong> sur <a href="https://www.service-public.fr/particuliers/vosdroits/R51788">Service-Public.fr</a>
+<p>Retrouvez vos informations pour <strong>voter les 30 juin et 7 juillet</strong> sur <a href="https://www.service-public.fr/particuliers/vosdroits/R51788">Service-Public.fr</a></p>
 
 </section>
-
 
 <section class="villes">
 
 <h2>Le 30 juin et le 7 juillet, votez et faites votez autour de vous !</h2>
 
-<!-- Ci-dessous listez les villes de votre circonscription pour aider les moteurs de recherche à trouver votre site -->
-
-Que vous soyez électeur ou électrice à Bourgoin Jallieu, La Verpillère, L'Isle-d'Abeau, La Tour-du-Pin, Pont-de-Beauvoisin… chaque vote compte pour empêcher l'extrême-droite d'arriver au pouvoir !
+<p>Que vous soyez électeur ou électrice à Bourgoin Jallieu, La Verpillère, L'Isle-d'Abeau, La Tour-du-Pin, Pont-de-Beauvoisin… chaque vote compte pour empêcher l'extrême-droite d'arriver au pouvoir !</p>
 
 </section>
 
