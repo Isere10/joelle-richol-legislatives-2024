@@ -11,7 +11,7 @@
 
 <section class="programme">
 
-  <h2>Le programme du Front Populaire : 100 jours pour tout changer :</h2>
+  <h2>Le programme du Front Populaire : 100 jours pour tout changer</h2>
 
 <ul>
   <li>
